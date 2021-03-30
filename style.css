@@ -1,0 +1,86 @@
+h1 {
+  text-align: center;
+  position: relative;
+  border-radius: 20px;
+  border: 3px dotted black;
+  width: 50%;
+  margin: auto;
+  background-color: #b9e0b1;
+}
+.klasawyzsza {
+  border-bottom: none;
+}
+body {
+  background-color: #d6c383;
+  font-family: 'Work Sans', sans-serif;
+};
+header {
+  display:flex;
+}
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+article {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 300px;
+  margin-top: 1em;
+}
+div {
+  border-left: 5px solid #9c9165;
+  padding-left: 5px;
+}
+.moniuszko {
+  width: 100px;
+  height: 110px;
+  float: left;
+  margin-right: 5px;
+}
+.klasawyzsza {
+  width: 100px;
+  height: 110px;
+  float: left;
+  margin-right: 5px;
+}
+a:hover {
+  color:red;
+}
+.auto {
+  width: 100px;
+  height: 150px;
+}
+.autopor{
+  float: left;
+  margin-right: 5px;
+  border-left: none;
+  margin-top: 5px;
+}
+div div p {
+  width: 60%;
+}
+.film {
+  border-left: none;
+  width: 50%;
+  margin: auto;
+}
+
+
+div{
+ margin-top: 100px;}
+.dwor {
+  border-left: none;
+  width: 50%;
+  margin: auto;
+}
+.wruc {
+  position: relative;
+  left: 5px;
+  top: 5px;
+}
+.chopinek {
+  float: left;
+  border: none;
+  margin: 10px;
+  margin-bottom: 5px;
+}
